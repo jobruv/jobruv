@@ -6,7 +6,7 @@ I'm passionate about backend development and data-driven applications, mainly wo
 
 💡 I love developing my skills and reflecting on my progress along the way.<br>
 🌱 Currently learning: Coding languages and Linux environments.<br>
-🔭 Working on: For now small projects.
+🔭 Working on: Projects to educate myself on.
 
 ---
 
@@ -66,7 +66,7 @@ I'm passionate about backend development and data-driven applications, mainly wo
 <details>
   <summary>📈LeetCode Stats</summary>
   
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/evenflow0422?theme=light\&font=Karla\&ext=heatmap)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/jobruv?theme=light\&font=Karla\&ext=heatmap)
   
 </details>
 
